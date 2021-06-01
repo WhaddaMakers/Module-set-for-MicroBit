@@ -12,7 +12,7 @@ When the PIR sensor detect movement, The light(s) will flash and the buzzer will
 The connection scheme:
 ![1](https://github.com/WhaddaMakers/Module_set_for_MicroBit/blob/main/Alarm.jpg)
 
-Download and pogram your MicroBit with the alarm.hex file
+Download and pogram your MicroBit with the MicroBit_alarm.hex file
 
 
 ## Project 2: Sound level meter
@@ -22,4 +22,4 @@ When the Button is pushed, the MicroPhone sensor will be activated and the light
 The connections scheme:
 ![1](https://github.com/WhaddaMakers/Module_set_for_MicroBit/blob/main/Sound%20Meter.jpg)
 
-Download and pogram your MicroBit with the alarm.hex file
+Download and pogram your MicroBit with the MicroBit_sound_meter.hex file
