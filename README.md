@@ -7,7 +7,7 @@ If you are not familiar with MicroBit yet, Follow the "getting started" tutorial
 
 ## Project 1: Alarm
 
-When the PIR sensor detect movement, The light will flash and the buzzer will make noise!
+When the PIR sensor detect movement, The light(s) will flash and the buzzer will make noise!
 
 The connection scheme:
 ![1](https://github.com/WhaddaMakers/Module_set_for_MicroBit/blob/main/Alarm.jpg)
