@@ -1,6 +1,6 @@
 # Module_set_for_MicroBit
 
-Some Example projects to make with the WPM300 MicroBit module set
+Some example projects to make with the WPM300 Micro:Bit module set.
 
 ### Before we can start
 If you are not familiar with MicroBit yet, Follow the "getting started" tutorial over here: https://microbit.org/get-started/first-steps/set-up/
