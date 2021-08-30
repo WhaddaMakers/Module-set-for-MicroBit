@@ -3,7 +3,7 @@
 Here are some example projects to make with the Micro:Bit module set.
 
 ### Before we can start
-If you are not familiar with MicroBit yet, Follow the "getting started" tutorial over here: https://microbit.org/get-started/first-steps/set-up/
+If you are not familiar with Micro:Bit yet, Follow the "getting started" tutorial over here: https://microbit.org/get-started/first-steps/set-up/
 
 ## Project 1: Alarm
 
